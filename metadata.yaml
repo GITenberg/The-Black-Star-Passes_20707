@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9112
     wikipedia: http://en.wikipedia.org/wiki/John_W._Campbell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20707#The-Black-Star-Passes
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-02-27'
 gutenberg_type: Text
